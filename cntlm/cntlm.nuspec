@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>cntlm</id>
+    <title>cntlm</title>
+    <version>0.92.3</version>
+    <authors>David Kubicek</authors>
+    <owners>Eric Loveland</owners>
+    <summary>cntlm</summary>
+    <description>Authenticating NTLMv2 Web Proxy for Corporate Environment</description>
+    <projectUrl>http://cntlm.sf.net/</projectUrl>
+    <tags>cntlm proxy</tags>
+    <copyright>Copyright (C) 2007-2012 David Kubicek</copyright>
+    <licenseUrl>https://raw.github.com/https://github.com/elovelan/nugetpackages/master/cntlm/LICENSE.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://sourceforge.net/p/cntlm/code/HEAD/tree/cntlm/trunk/win/cntlm.ico?format=raw</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
